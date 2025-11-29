@@ -44,7 +44,7 @@ You’ll see live demos, architecture breakdowns, session handling, and even a m
 #### 👉 Links & Resources
 
 - [Scrapybara](https://scrapybara.com/)
-- [Open AI Computer Use](https://platform.openai.com/docs/guides/tools-computer-use?utm_source=chatgpt.com#setting-up-your-environment)
+- [Open AI Computer Use](https://platform.openai.com/docs/guides/tools-computer-use?utm_source=chatgpt.com)
 
 ---
 
