@@ -69,4 +69,4 @@ pnpm run dev
 # The app will be available at http://localhost:3000
 ```
 
-📺 **Video:** [Watch on YouTube](https://youtu.be/B9aGb50_wrQ)
+📺 **Video:** [Watch on YouTube](https://youtu.be/Zb32PuO4m0Q)
