@@ -7,7 +7,7 @@ You’ll see live demos, architecture breakdowns, session handling, and even a m
 
 ---
 
-### 🎤 **1️⃣ — Intro, Architecture, Limitations**
+#### 🎤 **1️⃣ Intro, Architecture, Limitations**
 
 - 🧠 **How AI Agents Control Computers:** Building with Scrapybara and CUA Models
 - 🤖 **From Chatbots to Computer-Using Agents:** A Practical Overview
